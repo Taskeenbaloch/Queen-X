@@ -27,7 +27,7 @@ global.premium = ['94719225807'] //ur premium number
 global.botname = 'TECHNICAL TASKEEN' //ur bot name
 global.linkz = "https://youtu.be/Ij5SenWYlXg" //your theme url which will be displayed on whatsapp
 global.websitex = "https://youtu.be/Ij5SenWYlXg" //ur website to be displayed
-global.botscript = 'https://github.com/yureshkav/Queen-X' //script link
+global.botscript = 'https://youtube.com/shorts/FEHRU7Vb9Oc?feature=share' //script link
 global.themeemoji = "🛸" //ur theme emoji
 global.packname = "   TECHNICAL TASKEEN" //ur sticker watermark packname
 global.author = "   TECHNICAL TASKEEN\n\n\nA whatsapp bot developed by\nCYBORG ROBOT" //ur sticker watermark author
